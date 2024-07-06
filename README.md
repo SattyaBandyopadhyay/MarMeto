@@ -1,1 +1,1 @@
-# MarMeto
+# MarMetoThis is a completely responsive project. One of the flaws was not being able to calculate the discount, but I will surely try to modify it myself in the future. Otherwise, I made this website as similar to the given task as possible, just with my own preferred images
